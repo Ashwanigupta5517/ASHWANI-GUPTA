@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY PROFILE</title>
+</head>
+<body>
+    <H1>MY PROFILE</H1>
+    <IMG SRC="PROFILE.JPG" ALT="My Profile Image">
+        <DIV CLASS="INFO"
+        <P><B>NAME:</B>ASHWANI GUPTA</P>
+        <P><B>COURSE:</B>BTEC IN CSE</P>
+        <P><B>COLLEGE:</B>ABES ENGINEERING</P>
+        <P><B>CITY:</B>GHAZIABAD</P>
+    </DIV>
+    <H2>ABOUT ME</H2>
+    <P> HI, I AM <I>ASHWANI GUPTA</I>. I AM A STUDENT OF <B>BTEC IN CSE</B> AT <U>ABES ENGINEERING</U>.</P>
+</body>
+</html>
